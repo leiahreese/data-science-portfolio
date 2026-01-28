@@ -1,9 +1,9 @@
 # data-science-portfolio
 A collection of Data Science and Engineering projects specializing in Big Data Analytics, featuring SQL, Python, and Power BI.
 
-# 📂 Data Science & Engineering Portfolio
+# Data Science & Engineering Portfolio
 
-Welcome to my project repository! This is a curated collection of my work as a Computer Engineering student specializing in **Big Data Analytics**. Here, I showcase my ability to handle raw data, build robust database systems, and generate actionable business insights.
+A curated collection of my work as a Computer Engineering student specializing in **Big Data Analytics**. Here, I showcase my ability to handle raw data, build robust database systems, and generate actionable business insights.
 
 ## 🚀 Featured Projects
 
