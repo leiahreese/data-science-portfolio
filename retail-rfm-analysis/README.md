@@ -3,13 +3,13 @@
 ## 📌 Project Overview
 This project focuses on analyzing retail transaction data to segment customers based on their purchasing behavior. By applying the **RFM (Recency, Frequency, Monetary)** framework, I categorized customers into distinct groups to help businesses tailor their marketing strategies.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Database:** PostgreSQL / MySQL (Data Extraction & RFM Calculation)
 * **Analysis:** Python (Pandas)
 * **Environment:** VS Code
 * **Logic:** SQL CTEs (Common Table Expressions) and Aggregate Functions
 
-## 📊 Methodology: What is RFM?
+## Methodology: What is RFM?
 * **Recency (R):** How many days since the customer's last purchase?
 * **Frequency (F):** How often does the customer shop?
 * **Monetary (M):** How much total revenue does the customer generate?
